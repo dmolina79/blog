@@ -46,7 +46,7 @@ class BlogIndex extends React.Component {
                   <br />
                   Engineering
                 </h1>
-                Perfect's tip and tricks on different topics in Software
+                Doug's tip and tricks on different topics in Software
                 Engineering
               </Col>
               <Col lg={12} md={24} xs={24} style={{ marginBottom: '5rem' }}>
