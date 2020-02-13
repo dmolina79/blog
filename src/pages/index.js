@@ -42,7 +42,7 @@ class BlogIndex extends React.Component {
             <Row className="container" type="flex" justify="space-between">
               <Col lg={12} md={24} xs={24} style={{ marginBottom: '5rem' }}>
                 <h1 style={{ fontSize: '4rem' }}>
-                  New Doug's.
+                  Super New Doug's.
                   <br />
                   Engineering
                 </h1>
