@@ -44,7 +44,7 @@ class BlogIndex extends React.Component {
                 <h1 style={{ fontSize: '4rem' }}>
                   Super New Doug's.
                   <br />
-                  Engineering
+                  Latest Engineering
                 </h1>
                 Doug Molina tip and tricks on different topics in Software
                 Engineering
